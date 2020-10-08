@@ -1,0 +1,146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VPN Desktop Concept
+</name>
+</assembly>
+<members>
+<member name="T:VPN_Desktop_Concept.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.australia_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.forward_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.france_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.germany_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.luxembourg_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.mexico_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.monaco_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.netherlands_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.palestine_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.scandinavian_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_782">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_783">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_784">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_785">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_786">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_787">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_788">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_789">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.Screenshot_790">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.spain_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.sweden_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.taiwan_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.usa_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VPN_Desktop_Concept.My.Resources.Resources.venezuela_150px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

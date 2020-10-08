@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VPN Desktop Concept", "VPN Desktop Concept.vbproj", "{CBDF5C5D-1B30-425B-9E11-8B6A15E7E6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDF5C5D-1B30-425B-9E11-8B6A15E7E6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDF5C5D-1B30-425B-9E11-8B6A15E7E6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDF5C5D-1B30-425B-9E11-8B6A15E7E6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDF5C5D-1B30-425B-9E11-8B6A15E7E6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EC80DD-DCEB-4956-AC43-BC3C90B6AC8A}
+	EndGlobalSection
+EndGlobal
